@@ -1,4 +1,4 @@
-# Project1
+# Project2
 This is a project that implements custom system calls in a Linux system.
 
 This is the second project assignment for NCU 2024 Linux Operating System.
